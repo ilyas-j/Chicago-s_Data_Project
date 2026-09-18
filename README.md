@@ -8,16 +8,16 @@ This project explores Chicago datasets through a combination of Python, Jupyter 
 
 The main objectives are to:
 
--Work with real-world Chicago datasets
--Explore and understand the data
--Perform data cleaning and preparation
--Load structured data into a database
--Write SQL queries to extract useful information
--Analyze the results using Python
--Practice database and data analysis concepts
+-Work with real-world Chicago datasets\
+-Explore and understand the data\
+-Perform data cleaning and preparation\
+-Load structured data into a database\
+-Write SQL queries to extract useful information\
+-Analyze the results using Python\
+-Practice database and data analysis concepts\
 
 
 
-Acknowledgments
--City of Chicago Data Portal
+Acknowledgments\
+-City of Chicago Data Portal\
 -IBM Developer Skills Network — Course DB0201EN
